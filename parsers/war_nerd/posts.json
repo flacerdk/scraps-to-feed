@@ -1,0 +1,1961 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 456641,
+                "comment_count": 2,
+                "content": "<b>Yemen (+ Pol Pot)</b><br><p><b>PHNOM PENH \u2014</b> War Nerd wilting in record heat/drought in Cambodia . . . Khmer Rouge genocide + museum . . . The war in Yemen: when it started (way, way back), who's fighting, and how badly it is going for the Saudis and their proxies . . . bring in the mercenaries! . . .\u00a0</p><br><p>Total time: 1:36:12</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast33-Yemen-5-13-16.mp3\" rel=\"nofollow\">link</a> to this episode's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast33-Yemen-5-13-16.mp3\" rel=\"nofollow\">mp3</a></p>",
+                "created_at": "2016-05-13T20:04:27+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-5454250/edit",
+                "edited_at": "2016-05-13T20:34:08+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": true,
+                "like_count": 2,
+                "min_cents_pledged_to_view": 1,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-5454250",
+                "patron_count": 957,
+                "pledge_url": "/bePatron?patAmt=0.01&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast33-Yemen-5-13-16.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/4073003737306112335.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-05-13T20:34:08+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/CPmxq6LmmMLV1WJA6fZY4MjWW2YgJegPLeyVBLsLmB9Vxp5l4jkfTbq2en8XcscD_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #33\u2014May 13, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-5454250"
+            },
+            "id": "5454250",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-1011694-5454250",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-2614801-5454250",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5454250/likes?page%5Bcount%5D=2"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5454250",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 450994,
+                "comment_count": 0,
+                "content": "<b>Originally posted Apr 29, 2016</b><br><p><b>FSB, the Russian Deep State, Edward Snowden</b></p><p><b>Guest: <a href=\"https://en.wikipedia.org/wiki/Andrei_Soldatov\" rel=\"nofollow\">Andrei Soldatov</a>, investigative reporter in Moscow</b></p><p><b><br></b></p><p>Reposting for open public this great<b>\u00a0</b>90-minute interview with fearless Russian investigative reporter Andrei Soldatov on topics ranging from 2006 Lebanon War between Israel &amp; Hezbollah, to rise of FSB Deep State under Putin, the strangulation of Russia's once-wild Internet space, and Edward Snowden's \"strange\" refusal to meet with Russian journalists . . . Post-interview, War Nerd discusses pustules and current events, reads some Radio War Nerd subscriber comments . . .</p><br><p>Total episode time: 2:28:54</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast31-Soldatov-4-28-16.mp3\" rel=\"nofollow\">link</a> to this episode's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast31-Soldatov-4-28-16.mp3\" rel=\"nofollow\">mp3</a></p><p><b></b></p>",
+                "created_at": "2016-05-10T22:14:42+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-5435362/edit",
+                "edited_at": "2016-05-10T22:41:27+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": false,
+                "like_count": 3,
+                "min_cents_pledged_to_view": 0,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-5435362",
+                "patron_count": null,
+                "pledge_url": "/bePatron?patAmt=0.0&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast31-Soldatov-4-28-16.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/13215668837530227763.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-05-10T22:41:27+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/xiDBavgCptbGpT7sGMTzIKipYcWBdbQIAagwwSyBZMmCSkLwyZxObAwYp30OFiC9_large_2.jpeg"
+                },
+                "title": "Radio War Nerd: Repost Episode #31 Open",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-5435362"
+            },
+            "id": "5435362",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-2614801-5435362",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-3294625-5435362",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5435362/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/5435362/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-05-14T07%3A26%3A17"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5435362",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 447817,
+                "comment_count": 13,
+                "content": "<b>Urban guerrillas in 70s America</b><p><b><br></b></p><p>War Nerd in Phnom Penh . . . warning: audio this episode kinda buggy . . . War World Roundup: Ergodan consolidates power, Nagorno-Karabakh front still hot, Western human rights preachers still whoring for Baku oil cash . . . Muqtada al-Sadr's followers take over Green Zone by walking in . . . remembering neocons from NRO to Andrew Sullivan who dismissed Sadr as a nobody . . . Green Zone takeover as future of war . . . The incredible SS Columbia Eagle mutiny in 1970, when leftwing sailors hijacked ship full of US military napalm and forced it to Cambodia . . . US urban guerrillas in the early-mid 1970s, from Weather Underground to SLA, Black Liberation Army to the NWLF . . .\u00a0</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast32-1970s-American-Urban-Guerrillas-5-08-16.mp3\" rel=\"nofollow\">link</a> to this episode's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast32-1970s-American-Urban-Guerrillas-5-08-16.mp3\" rel=\"nofollow\">mp3</a>.</p>",
+                "created_at": "2016-05-09T01:00:41+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-8-5421146/edit",
+                "edited_at": "2016-05-09T02:55:29+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": false,
+                "like_count": 4,
+                "min_cents_pledged_to_view": 1,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-8-5421146",
+                "patron_count": 957,
+                "pledge_url": "/bePatron?patAmt=0.01&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast32-1970s-American-Urban-Guerrillas-5-08-16.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/3660846976125279477.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-05-09T02:55:29+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/mzXvSl3IgRQZBIlPTBAEUebF1zzsEhv9DmVM2Vcsuj28qaAYkp1L7AeaoikrmnKP_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #32\u2014May 8, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-8-5421146"
+            },
+            "id": "5421146",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-1009121-5421146",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-2614801-5421146",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5421146/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/5421146/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-05-14T08%3A25%3A39"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5421146",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 448624,
+                "comment_count": 0,
+                "content": "Here's a 20-minute preview of our newest Radio War Nerd episode (total length 2:28:54) featuring an excellent 90-minute \u00a0interview with Russia's most fearless NatSec investigative reporter, Andrei Soldatov. Subscribe to Radio War Nerd to listen to the entire episode and all previous locked episodes. Depending on your pledge, you can also get our downloadable RSS feed for your podcast app, the Radio War Nerd Newsletter, Show Notes and more...<br><p>Join the Radio War Nerd Legion. Before it's too late...</p>",
+                "created_at": "2016-04-29T14:21:37+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/preview-radio-31-5230065/edit",
+                "edited_at": "2016-04-29T14:29:53+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": false,
+                "like_count": 0,
+                "min_cents_pledged_to_view": 0,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/preview-radio-31-5230065",
+                "patron_count": null,
+                "pledge_url": "/bePatron?patAmt=0.0&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast31-Preview1.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/18424564721742374053.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-04-29T14:29:53+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/n9cYrx0Pybxhe5qoOdUaOvFC1hw9WzGp4z9kkEN5FlmpfmWnLzhWOyy1BrOtTuUX_large_2.jpeg"
+                },
+                "title": "Preview Radio War Nerd Episode #31",
+                "url": "https://www.patreon.com/posts/preview-radio-31-5230065"
+            },
+            "id": "5230065",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5230065/likes?page%5Bcount%5D=2"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5230065",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 448624,
+                "comment_count": 11,
+                "content": "<b>FSB, the Russian Deep State, Edward Snowden</b><br><p><b>Guest: <a href=\"https://en.wikipedia.org/wiki/Andrei_Soldatov\" rel=\"nofollow\">Andrei Soldatov</a>, investigative reporter in Moscow</b></p><p><b><br></b></p><p>Great 90-minute interview with fearless Russian investigative reporter Andrei Soldatov on topics ranging from 2006 Lebanon War between Israel &amp; Hezbollah, to rise of FSB Deep State under Putin, the strangulation of Russia's once-wild Internet space, and Edward Snowden's \"strange\" refusal to meet with Russian journalists . . . Post-interview, War Nerd discusses pustules and current events, reads some Radio War Nerd subscriber comments . . .\u00a0</p><br><p>Total episode time: 2:28:54</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast31-Soldatov-4-28-16.mp3\" rel=\"nofollow\">link</a> to this episode's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast31-Soldatov-4-28-16.mp3\" rel=\"nofollow\">mp3</a></p>",
+                "created_at": "2016-04-28T22:49:25+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-5226883/edit",
+                "edited_at": "2016-04-29T14:19:55+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": true,
+                "like_count": 6,
+                "min_cents_pledged_to_view": 1,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-5226883",
+                "patron_count": 957,
+                "pledge_url": "/bePatron?patAmt=0.01&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast31-Soldatov-4-28-16.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/8737498393946552300.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-04-29T14:19:55+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/u2HrREhxb2MSqqTKQxhymnRq7VCbIbqGWY9BNcYzQTXEIixUFMP8tExMXUrdyuwT_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #31\u2014April 29, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-5226883"
+            },
+            "id": "5226883",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-2614801-5226883",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-1010858-5226883",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5226883/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/5226883/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-05-06T04%3A14%3A15"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5226883",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 447997,
+                "comment_count": 10,
+                "content": "<b>The Opium Wars</b><br><p><b><br></b></p><p>War Nerd stuck in Bangkok . . . Turkey's genocide-deniers take to NYC's skies . . . Azerbaijan president's insane tweets . . . Israel celebrates soldier who executed wounded Palestinian, reminds of US turning Lt Calley into a hero . . . Egypt sells 2 islands in Gulf of Aqaba to Saudi Arabia . . . The Opium Wars . . .\u00a0</p><p><b><br></b></p><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast30-Opium-Wars-4-24-16.mp3\" rel=\"nofollow\">link</a> to this episode's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast30-Opium-Wars-4-24-16.mp3\" rel=\"nofollow\">mp3</a></p>",
+                "created_at": "2016-04-25T02:40:32+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-5202302/edit",
+                "edited_at": "2016-04-25T02:59:10+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": false,
+                "like_count": 8,
+                "min_cents_pledged_to_view": 0,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-5202302",
+                "patron_count": null,
+                "pledge_url": "/bePatron?patAmt=0.0&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast30-Opium-Wars-4-24-16.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/12245275490496490902.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-04-25T02:59:10+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/NdMFsFDKGLxPS7gX0FS3uNwbwl3JPm9rBUMGQZQYvmHctNB2cUxUe5RW48RbBGZP_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #30\u2014April 24, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-5202302"
+            },
+            "id": "5202302",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-2614801-5202302",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-2905149-5202302",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5202302/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/5202302/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-04-26T00%3A38%3A38"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5202302",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 433558,
+                "comment_count": 10,
+                "content": "<b>Nagorno-Karabakh War: Armenians vs Azerbaijanis (+ oilmoney)</b><br><br><p>Merkel prosecutes German satirist to please Ergodan . . . War Nerd heading to Cambodia . . . Assassinations from Lincoln to Operation Nemesis . . . Italian friend jailed in Turkey for having pro-Kurdish Facebook posts . . . CIA's \"Plan B\" to arm the legendary Syrian moderates . . . Russian Sukhois buzzing US destroyer in the Baltics, and gloating at Americans . . . Long history of the Nagorno-Karabakh conflict, Armenia &amp; Azerbaijan . . .</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast29-Nagorno-Karabakh-04-15-2016b.mp3\" rel=\"nofollow\">link</a> to this show's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast29-Nagorno-Karabakh-04-15-2016b.mp3\" rel=\"nofollow\">mp3</a>.</p>",
+                "created_at": "2016-04-16T21:38:53+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-5159323/edit",
+                "edited_at": "2016-04-16T22:28:06+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": true,
+                "like_count": 4,
+                "min_cents_pledged_to_view": 1,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-5159323",
+                "patron_count": 957,
+                "pledge_url": "/bePatron?patAmt=0.01&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast29-Nagorno-Karabakh-04-15-2016b.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/17468075104717119031.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-04-16T22:28:05+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/L6rakomftATHMlUZbwwxeIl2No27u1HLJGZjvdJmS7XT7CkVD5NizBJrGb0tyA0m_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #29\u2014April 15, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-5159323"
+            },
+            "id": "5159323",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-2905149-5159323",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-180160-5159323",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5159323/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/5159323/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-04-19T11%3A56%3A33"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5159323",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 421046,
+                "comment_count": 5,
+                "content": "<b>Getting To Know Islamic State Jihadis</b><p><b>Guest: <a href=\"http://www.pri.org/person/gunnar-hrafn-jonsson\" rel=\"nofollow\">Gunnar Hrafn Jonsson</a>, Iceland Public Radio</b></p><br><p>Great interview with Icelandic journalist who has spent years now in Dark Web contact with numerous ISIS jihadis. Jonsson is also an early WikiLeaks collaborator who gives background to Iceland prime minister's resignation over Panama Papers leaks . . .\u00a0</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast28-Gunnar-Jonsson-04-07-2016.mp3\" rel=\"nofollow\">link</a> to this episode's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast28-Gunnar-Jonsson-04-07-2016.mp3\" rel=\"nofollow\">mp3</a>.</p>",
+                "created_at": "2016-04-08T15:15:11+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-7-5106280/edit",
+                "edited_at": "2016-04-08T15:32:09+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": false,
+                "like_count": 8,
+                "min_cents_pledged_to_view": 0,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-7-5106280",
+                "patron_count": null,
+                "pledge_url": "/bePatron?patAmt=0.0&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast28-Gunnar-Jonsson-04-07-2016.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/10142499151196422525.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-04-08T15:32:09+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/Un19GA6aQ2bv9Ee0fdYeJfeAWFR7YN5dUqaf4ojCbem071YFVZzyorLzapZO7Y2A_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #28\u2014April 7, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-7-5106280"
+            },
+            "id": "5106280",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-2663239-5106280",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-1010858-5106280",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/5106280/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/5106280/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-04-11T14%3A39%3A26"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/5106280",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 404807,
+                "comment_count": 11,
+                "content": "Radio War Nerd covers the world of wars every week, and it's all thanks to our paying subscribers. Most of our shows are now locked for our subscribers only. So if you're looking for those missing shows, and you want your War Nerd fix on a regular weekly basis from here until the end of time, then subscribe now and join the War Nerd Legion!\u00a0",
+                "created_at": "2016-03-31T20:43:38+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/want-to-hear-war-4926085/edit",
+                "edited_at": "2016-03-31T21:17:25+00:00",
+                "embed": null,
+                "image": {
+                    "height": 288,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/SEsr2dZGlMmGvpUd20oAh2kNAhxCXn9SaY1c2zxK6BG7OO7BtHYPyYZy8Lr2cGui_large.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/SEsr2dZGlMmGvpUd20oAh2kNAhxCXn9SaY1c2zxK6BG7OO7BtHYPyYZy8Lr2cGui_old_single.jpeg",
+                    "width": 288
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": false,
+                "like_count": 2,
+                "min_cents_pledged_to_view": 0,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/want-to-hear-war-4926085",
+                "patron_count": null,
+                "pledge_url": "/bePatron?patAmt=0.0&u=643832",
+                "post_file": {
+                    "name": "war_nerd_logo.jpg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/4113193520760295747.jpg"
+                },
+                "post_type": "image_file",
+                "published_at": "2016-03-31T21:17:25+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/85mMJ752w3IRImZ9x5JNKds56B9bO9NyGsPRHAoNEnt1Am3CdrvModGut0XO0lXP_large_2.jpeg"
+                },
+                "title": "Want To Hear Every War Nerd Episode? Subscribe Now!",
+                "url": "https://www.patreon.com/posts/want-to-hear-war-4926085"
+            },
+            "id": "4926085",
+            "relationships": {
+                "attachments": {
+                    "data": [
+                        {
+                            "id": "377317",
+                            "type": "attachment"
+                        }
+                    ]
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-68178-4926085",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-1010858-4926085",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/4926085/likes?page%5Bcount%5D=2"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/4926085",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        },
+        {
+            "attributes": {
+                "category": "1",
+                "cents_pledged_at_creation": 403904,
+                "comment_count": 3,
+                "content": "<b>Palmyra + The War Nerd's history with Human Terrain System</b><p>Syrian government forces retake Palmyra from Islamic State . . . The ancient &amp; glorious history of wars and battles in and around Palmyra . . . Why Palmyra matters, why IS took it, and why Palmyra fell . . . The US State Dept squeals . . . Human Terrain System program apparently not dead . . . The War Nerd's long personal history with the brains behind HTS, Mitzy Carlough . . . how interests of tenured academic sleaze aligns with right-wing reactionary power . . . painful memories . . .\u00a0</p><br><p>Direct <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast27-Palmyra-Human-Terrain-3-31-2016b.mp3\" rel=\"nofollow\">link</a> to this show's <a href=\"http://exiledonline.com/wnradio/Radio-War-Nerd-Podcast27-Palmyra-Human-Terrain-3-31-2016b.mp3\" rel=\"nofollow\">mp3</a>\u00a0</p><p>\u00a0\u00a0</p>",
+                "created_at": "2016-03-31T20:06:47+00:00",
+                "current_user_has_liked": false,
+                "deleted_at": null,
+                "edit_url": "/posts/radio-war-nerd-4925873/edit",
+                "edited_at": "2016-03-31T20:34:10+00:00",
+                "embed": null,
+                "image": {
+                    "height": 518,
+                    "large_url": "//s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_large_2.jpeg",
+                    "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_old_thumb.jpeg",
+                    "url": "//s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_large_2.jpeg",
+                    "width": 920
+                },
+                "is_automated_monthly_charge": false,
+                "is_creation": true,
+                "is_paid": true,
+                "like_count": 4,
+                "min_cents_pledged_to_view": 1,
+                "num_pushable_users": null,
+                "patreon_url": "/posts/radio-war-nerd-4925873",
+                "patron_count": 957,
+                "pledge_url": "/bePatron?patAmt=0.01&u=643832",
+                "post_file": {
+                    "name": "Radio-War-Nerd-Podcast27-Palmyra-Human-Terrain-3-31-2016b.mp3",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/3534342360679576919.mp3"
+                },
+                "post_type": "audio_file",
+                "published_at": "2016-03-31T20:29:19+00:00",
+                "thumbnail": {
+                    "huge": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_huge.jpeg",
+                    "large": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_large.jpeg",
+                    "large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_large_2.jpeg",
+                    "old_thumb": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_old_thumb.jpeg",
+                    "small": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_small.jpeg",
+                    "small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_small_2.jpeg",
+                    "square_large": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_square_large.jpeg",
+                    "square_large_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_square_large_2.jpeg",
+                    "square_small": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_square_small.jpeg",
+                    "square_small_2": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_square_small_2.jpeg",
+                    "url": "https://s3-us-west-1.amazonaws.com/patreon.posts/329Ow9jdWEoeKMHt0QtpsE9wJj2GfHSXBRbI91VuLyJocaF4nul0TbV4OdN8u0Hm_large_2.jpeg"
+                },
+                "title": "Radio War Nerd, Episode #27\u2014March 31, 2016",
+                "url": "https://www.patreon.com/posts/radio-war-nerd-4925873"
+            },
+            "id": "4925873",
+            "relationships": {
+                "attachments": {
+                    "data": []
+                },
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1-2411608-4925873",
+                            "type": "like"
+                        },
+                        {
+                            "id": "1-1011694-4925873",
+                            "type": "like"
+                        }
+                    ],
+                    "links": {
+                        "first": "https://api.patreon.com/posts/4925873/likes?page%5Bcount%5D=2",
+                        "next": "https://api.patreon.com/posts/4925873/likes?page%5Bcount%5D=2&page%5Bcursor%5D=2016-04-04T01%3A10%3A08"
+                    }
+                },
+                "self": "https://api.patreon.com/posts/4925873",
+                "user": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "post"
+        }
+    ],
+    "included": [
+        {
+            "attributes": {
+                "created_at": "2015-03-20T04:33:58+00:00",
+                "creation_count": 38,
+                "creation_name": "The War Nerd Podcast",
+                "image_small_url": "//s3-us-west-1.amazonaws.com/patreon.user/jQlt8C4mONYImxKsX447kds1rGd2I7oUDZSaowP6AVB7M2bM7TJEnHFl53SNllp3_normal_2.png",
+                "image_url": "//s3-us-west-1.amazonaws.com/patreon.user/jQlt8C4mONYImxKsX447kds1rGd2I7oUDZSaowP6AVB7M2bM7TJEnHFl53SNllp3_large_2.png",
+                "is_charged_immediately": false,
+                "is_monthly": false,
+                "is_nsfw": false,
+                "main_video_embed": "",
+                "main_video_url": "",
+                "one_liner": "My name is John Dolan aka Gary Brecher aka The War Nerd",
+                "outstanding_payment_amount_cents": 500,
+                "patron_count": 925,
+                "pay_per_name": "Per Show (maximum 2 paid shows per month)",
+                "pledge_sum": 459444,
+                "pledge_url": "/bePatron?patAmt=1&u=643832",
+                "published_at": "2015-08-17T17:12:02+00:00",
+                "summary": "<strong>Radio War Nerd Update\u2014<br></strong><br>\n\nAt the end of last summer, we started these Radio War Nerd\npodcasts. Since then, the response has been fantastic. It seems like we can\nkeep this going and turn it into something with real strategic significance. <br><br>\n\nAt first we did a show every two weeks, but we promised that\nif the donations came in we\u2019d move to a weekly format. Well they did. And we\u2019ve\ngone weekly now, along with special extra episodes such as when Turkey shot\ndown the Russian Sukhoi, or our special interview with Guardian journalist\nJason Walsh on the Oregon standoff. <br><br>\n\nThanks to your support for Radio War Nerd, we can devote\nmore attention and time to the one thing we all want to focus on\u2014wars. With\nyour help, we\u2019re getting closer to the real goal\u2014dropping all the dreary scary paycheck\ndistractions, and devoting everything to bringing you the world of war.  <br>\n\nWe\u2019re really just getting started\nsampling the rich vein of weird and gory in todays\u2019 wars. We have lots of ideas\nand above all bringing in new voices from parts of the world not often heard on\nthe air. To do that we\u2019ll need to make a few technical upgrades and I\u2019ll have\nto find a place to bunker up on a more permanent basis. This trudging around\nthe world losing bits of baggage like a SAM-hit Boeing is no way to run a War\nNerd Railroad (try saying that three times). Mark\u2019s been holding the fort in\nNYC while I bounce around southern Europe, but we hope that very soon we\u2019ll\nboth be in permanent reliable Comms rooms, a mere ocean apart. <br><br>\n\nIt\u2019s exciting as hell and I just want to say I\u2019m really\ngrateful for the support. What with the ESL follies, my wife and I were\nbeginning to get the impression that we were Top of the Interpol Pops or\nsomething, and it warms the old ticker to learn that there are people out there\nwho want to hear from us. <br><br>\n\nSince we started these broadcasts, I have not been evicted\nfrom a single country. Keep the streak alive! <br><br>",
+                "thanks_embed": null,
+                "thanks_msg": "Thank you so much for your support. I really appreciate it. The Radio War Nerd Legion is growing...",
+                "thanks_video_url": null
+            },
+            "id": "157274",
+            "relationships": {
+                "creator": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                },
+                "goals": {
+                    "data": [
+                        {
+                            "id": "140348",
+                            "type": "goal"
+                        }
+                    ]
+                },
+                "rewards": {
+                    "data": [
+                        {
+                            "id": "-1",
+                            "type": "reward"
+                        },
+                        {
+                            "id": "0",
+                            "type": "reward"
+                        },
+                        {
+                            "id": "181884",
+                            "type": "reward"
+                        },
+                        {
+                            "id": "224676",
+                            "type": "reward"
+                        },
+                        {
+                            "id": "181885",
+                            "type": "reward"
+                        }
+                    ]
+                },
+                "self": "https://api.patreon.com/campaigns/157274"
+            },
+            "type": "campaign"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2015-03-20T04:32:40+00:00",
+                "facebook": "https://www.facebook.com/profile.php?id=100009407541064",
+                "facebook_id": "1473886759601561",
+                "first_name": "Gary",
+                "full_name": "Gary Brecher",
+                "gender": 0,
+                "image_url": "//s3-us-west-1.amazonaws.com/patreon.user/n4H3wobwI3jPQ5ZY5vPlYLmFgn7NZq6K6IbNEI5DvpFYMlozBQB33OZF1kHCjk4y_large_2.jpeg",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Brecher",
+                "status": 1,
+                "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.user/9tY66SZRthwvpTHQDKN9aUHFv00JlBiAX6amzmFFQaukANVVlto4Nk32oHdtDafQ_thumb_large_3.jpeg",
+                "thumbnails": {
+                    "thumb": "https://s3-us-west-1.amazonaws.com/patreon.user/9tY66SZRthwvpTHQDKN9aUHFv00JlBiAX6amzmFFQaukANVVlto4Nk32oHdtDafQ_thumb.jpeg",
+                    "thumb_2": "https://s3-us-west-1.amazonaws.com/patreon.user/9tY66SZRthwvpTHQDKN9aUHFv00JlBiAX6amzmFFQaukANVVlto4Nk32oHdtDafQ_thumb_2.jpeg",
+                    "thumb_large": "https://s3-us-west-1.amazonaws.com/patreon.user/9tY66SZRthwvpTHQDKN9aUHFv00JlBiAX6amzmFFQaukANVVlto4Nk32oHdtDafQ_thumb_large.jpeg",
+                    "thumb_large_2": "https://s3-us-west-1.amazonaws.com/patreon.user/9tY66SZRthwvpTHQDKN9aUHFv00JlBiAX6amzmFFQaukANVVlto4Nk32oHdtDafQ_thumb_large_2.jpeg",
+                    "thumb_large_3": "https://s3-us-west-1.amazonaws.com/patreon.user/9tY66SZRthwvpTHQDKN9aUHFv00JlBiAX6amzmFFQaukANVVlto4Nk32oHdtDafQ_thumb_large_3.jpeg"
+                },
+                "twitch": null,
+                "twitter": "thewarnerd",
+                "url": "https://www.patreon.com/radiowarnerd",
+                "vanity": "radiowarnerd",
+                "youtube": null
+            },
+            "id": "643832",
+            "relationships": {
+                "campaign": {
+                    "data": {
+                        "id": "157274",
+                        "type": "campaign"
+                    },
+                    "related": "https://api.patreon.com/campaigns/157274"
+                },
+                "self": "https://api.patreon.com/user/643832"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-15T03:35:43+00:00"
+            },
+            "id": "1-1011694-5454250",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5454250",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5454250"
+                },
+                "self": "https://api.patreon.com/likes/1-1011694-5454250",
+                "user": {
+                    "data": {
+                        "id": "1011694",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/1011694"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-14T08:25:32+00:00"
+            },
+            "id": "1-2614801-5454250",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5454250",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5454250"
+                },
+                "self": "https://api.patreon.com/likes/1-2614801-5454250",
+                "user": {
+                    "data": {
+                        "id": "2614801",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2614801"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-14T08:25:36+00:00"
+            },
+            "id": "1-2614801-5435362",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5435362",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5435362"
+                },
+                "self": "https://api.patreon.com/likes/1-2614801-5435362",
+                "user": {
+                    "data": {
+                        "id": "2614801",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2614801"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-14T07:26:17+00:00"
+            },
+            "id": "1-3294625-5435362",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5435362",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5435362"
+                },
+                "self": "https://api.patreon.com/likes/1-3294625-5435362",
+                "user": {
+                    "data": {
+                        "id": "3294625",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/3294625"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-14T10:28:56+00:00"
+            },
+            "id": "1-1009121-5421146",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5421146",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5421146"
+                },
+                "self": "https://api.patreon.com/likes/1-1009121-5421146",
+                "user": {
+                    "data": {
+                        "id": "1009121",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/1009121"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-14T08:25:39+00:00"
+            },
+            "id": "1-2614801-5421146",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5421146",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5421146"
+                },
+                "self": "https://api.patreon.com/likes/1-2614801-5421146",
+                "user": {
+                    "data": {
+                        "id": "2614801",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2614801"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-14T08:27:12+00:00"
+            },
+            "id": "1-2614801-5226883",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5226883",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5226883"
+                },
+                "self": "https://api.patreon.com/likes/1-2614801-5226883",
+                "user": {
+                    "data": {
+                        "id": "2614801",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2614801"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-05-06T04:14:15+00:00"
+            },
+            "id": "1-1010858-5226883",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5226883",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5226883"
+                },
+                "self": "https://api.patreon.com/likes/1-1010858-5226883",
+                "user": {
+                    "data": {
+                        "id": "1010858",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/1010858"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-26T07:42:59+00:00"
+            },
+            "id": "1-2614801-5202302",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5202302",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5202302"
+                },
+                "self": "https://api.patreon.com/likes/1-2614801-5202302",
+                "user": {
+                    "data": {
+                        "id": "2614801",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2614801"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-26T00:38:38+00:00"
+            },
+            "id": "1-2905149-5202302",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5202302",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5202302"
+                },
+                "self": "https://api.patreon.com/likes/1-2905149-5202302",
+                "user": {
+                    "data": {
+                        "id": "2905149",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2905149"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-20T06:04:56+00:00"
+            },
+            "id": "1-2905149-5159323",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5159323",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5159323"
+                },
+                "self": "https://api.patreon.com/likes/1-2905149-5159323",
+                "user": {
+                    "data": {
+                        "id": "2905149",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2905149"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-19T11:56:33+00:00"
+            },
+            "id": "1-180160-5159323",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5159323",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5159323"
+                },
+                "self": "https://api.patreon.com/likes/1-180160-5159323",
+                "user": {
+                    "data": {
+                        "id": "180160",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/180160"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-18T18:09:41+00:00"
+            },
+            "id": "1-2663239-5106280",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5106280",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5106280"
+                },
+                "self": "https://api.patreon.com/likes/1-2663239-5106280",
+                "user": {
+                    "data": {
+                        "id": "2663239",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2663239"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-11T14:39:26+00:00"
+            },
+            "id": "1-1010858-5106280",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "5106280",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/5106280"
+                },
+                "self": "https://api.patreon.com/likes/1-1010858-5106280",
+                "user": {
+                    "data": {
+                        "id": "1010858",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/1010858"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "name": "war nerd logo.jpg",
+                "url": "https://www.patreon.com/file?h=4926085&i=377317"
+            },
+            "id": "377317",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "4926085",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/4926085"
+                }
+            },
+            "type": "attachment"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-02T22:36:28+00:00"
+            },
+            "id": "1-68178-4926085",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "4926085",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/4926085"
+                },
+                "self": "https://api.patreon.com/likes/1-68178-4926085",
+                "user": {
+                    "data": {
+                        "id": "68178",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/68178"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-01T02:26:29+00:00"
+            },
+            "id": "1-1010858-4926085",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "4926085",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/4926085"
+                },
+                "self": "https://api.patreon.com/likes/1-1010858-4926085",
+                "user": {
+                    "data": {
+                        "id": "1010858",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/1010858"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-08T19:26:02+00:00"
+            },
+            "id": "1-2411608-4925873",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "4925873",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/4925873"
+                },
+                "self": "https://api.patreon.com/likes/1-2411608-4925873",
+                "user": {
+                    "data": {
+                        "id": "2411608",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/2411608"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "created_at": "2016-04-04T01:10:08+00:00"
+            },
+            "id": "1-1011694-4925873",
+            "relationships": {
+                "post": {
+                    "data": {
+                        "id": "4925873",
+                        "type": "post"
+                    },
+                    "related": "https://api.patreon.com/posts/4925873"
+                },
+                "self": "https://api.patreon.com/likes/1-1011694-4925873",
+                "user": {
+                    "data": {
+                        "id": "1011694",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/1011694"
+                }
+            },
+            "type": "like"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2015-08-19T18:17:30+00:00",
+                "facebook": null,
+                "facebook_id": null,
+                "first_name": "Brynj",
+                "full_name": "Brynj",
+                "gender": 0,
+                "image_url": "https://www.patreon.com/images/profile_default_large.png",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "",
+                "status": 0,
+                "thumb_url": "https://www.patreon.com/images/profile_default.png",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": "",
+                "url": "https://www.patreon.com/user?u=1011694",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "1011694",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/1011694"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": null,
+                "created": "2015-12-13T10:11:30+00:00",
+                "facebook": null,
+                "facebook_id": null,
+                "first_name": "Peter",
+                "full_name": "Peter Savage",
+                "gender": 0,
+                "image_url": "https://www.patreon.com/images/profile_default_large.png",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Savage",
+                "status": 0,
+                "thumb_url": "https://www.patreon.com/images/profile_default.png",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": null,
+                "url": "https://www.patreon.com/user?u=2614801",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "2614801",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/2614801"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "amount": 0,
+                "amount_cents": 0,
+                "created_at": null,
+                "description": "Everyone",
+                "remaining": 0,
+                "requires_shipping": false,
+                "type": "reward",
+                "url": null,
+                "user_limit": null
+            },
+            "id": "-1",
+            "relationships": {
+                "creator": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "reward"
+        },
+        {
+            "attributes": {
+                "amount": 1,
+                "amount_cents": 1,
+                "created_at": null,
+                "description": "Patrons Only",
+                "remaining": 0,
+                "requires_shipping": false,
+                "type": "reward",
+                "url": null,
+                "user_limit": null
+            },
+            "id": "0",
+            "relationships": {
+                "creator": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "reward"
+        },
+        {
+            "attributes": {
+                "amount": 500,
+                "amount_cents": 500,
+                "created_at": "2016-01-19T15:42:59+00:00",
+                "description": "If you're kind enough to commit to <strong>$5 per show</strong>, I'll send you my biweekly Radio War Nerd subscriber newsletter into your email inbox. In it I discuss everything from wars past and present to my own personal wanderings through southern Europe.",
+                "patron_count": 671,
+                "remaining": null,
+                "requires_shipping": false,
+                "url": "/bePatron?rid=181884&patAmt=5.0&u=643832&exp=1",
+                "user_limit": 0
+            },
+            "id": "181884",
+            "relationships": {
+                "creator": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "reward"
+        },
+        {
+            "attributes": {
+                "amount": 1000,
+                "amount_cents": 1000,
+                "created_at": "2016-01-19T15:42:59+00:00",
+                "description": "If you're generous enough to commit to <strong>$10 per month</strong>, I'll send you my show notes plus a copy of my War Nerd Dispatches ebook containing all of my columns from NSFWCORP. Plus the biweekly subscriber newsletter.",
+                "patron_count": 125,
+                "remaining": null,
+                "requires_shipping": false,
+                "url": "/bePatron?rid=224676&patAmt=10.0&u=643832&exp=1",
+                "user_limit": 0
+            },
+            "id": "224676",
+            "relationships": {
+                "creator": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "reward"
+        },
+        {
+            "attributes": {
+                "amount": 10000,
+                "amount_cents": 10000,
+                "created_at": "2016-01-19T15:42:59+00:00",
+                "description": "If you're foolish enough to contribute <strong>$100 or more per show</strong>, you'll become an official \"sponsor\" of the show, complete with a name check in every episode including a link to the URL of your choice.",
+                "patron_count": 1,
+                "remaining": null,
+                "requires_shipping": false,
+                "url": "/bePatron?rid=181885&patAmt=100.0&u=643832&exp=1",
+                "user_limit": 0
+            },
+            "id": "181885",
+            "relationships": {
+                "creator": {
+                    "data": {
+                        "id": "643832",
+                        "type": "user"
+                    },
+                    "related": "https://api.patreon.com/user/643832"
+                }
+            },
+            "type": "reward"
+        },
+        {
+            "attributes": {
+                "amount": 250000,
+                "amount_cents": 250000,
+                "created_at": "2015-03-20T04:37:06+00:00",
+                "description": "Thanks to our fantastic subscribers we reached our goal of $2500/show. This means we're starting weekly Radio War Nerd podcasts in December, every War Nerd Wednesday.",
+                "reached_at": "2015-11-16T15:16:46+00:00",
+                "title": "Produce new episodes weekly"
+            },
+            "id": "140348",
+            "type": "goal"
+        },
+        {
+            "attributes": {
+                "about": null,
+                "created": "2016-05-13T03:02:16+00:00",
+                "facebook": null,
+                "facebook_id": "10153598559778601",
+                "first_name": "Wesley",
+                "full_name": "Wesley Andrew",
+                "gender": 0,
+                "image_url": "https://www.patreon.com/images/profile_default_large.png",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Andrew",
+                "status": 0,
+                "thumb_url": "https://www.patreon.com/images/profile_default.png",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": null,
+                "url": "https://www.patreon.com/user?u=3294625",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "3294625",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/3294625"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2015-08-18T21:20:32+00:00",
+                "facebook": null,
+                "facebook_id": null,
+                "first_name": "Karl",
+                "full_name": "Karl Knight",
+                "gender": 0,
+                "image_url": "https://www.patreon.com/images/profile_default_large.png",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Knight",
+                "status": 0,
+                "thumb_url": "https://www.patreon.com/images/profile_default.png",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": "",
+                "url": "https://www.patreon.com/user?u=1009121",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "1009121",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/1009121"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": null,
+                "created": "2015-08-19T12:07:29+00:00",
+                "facebook": null,
+                "facebook_id": "10153091376786593",
+                "first_name": "Graeme",
+                "full_name": "Graeme Anfinson",
+                "gender": 0,
+                "image_url": "//s3-us-west-1.amazonaws.com/patreon.user/ihC1brmcVY71pEtiWksoT2EsJF0WPDu1jmLHYygTO5bZbh5LO8JGOewskIeuWUi6_large_2.jpeg",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Anfinson",
+                "status": 0,
+                "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.user/zr1BB5D3BJs878zTe50v09HWHssNn7m8MXJgSgPLoTcX3nVhhABSqCl0HlSPugrp_thumb_large_3.jpeg",
+                "thumbnails": {
+                    "thumb": "https://s3-us-west-1.amazonaws.com/patreon.user/zr1BB5D3BJs878zTe50v09HWHssNn7m8MXJgSgPLoTcX3nVhhABSqCl0HlSPugrp_thumb.jpeg",
+                    "thumb_2": "https://s3-us-west-1.amazonaws.com/patreon.user/zr1BB5D3BJs878zTe50v09HWHssNn7m8MXJgSgPLoTcX3nVhhABSqCl0HlSPugrp_thumb_2.jpeg",
+                    "thumb_large": "https://s3-us-west-1.amazonaws.com/patreon.user/zr1BB5D3BJs878zTe50v09HWHssNn7m8MXJgSgPLoTcX3nVhhABSqCl0HlSPugrp_thumb_large.jpeg",
+                    "thumb_large_2": "https://s3-us-west-1.amazonaws.com/patreon.user/zr1BB5D3BJs878zTe50v09HWHssNn7m8MXJgSgPLoTcX3nVhhABSqCl0HlSPugrp_thumb_large_2.jpeg",
+                    "thumb_large_3": "https://s3-us-west-1.amazonaws.com/patreon.user/zr1BB5D3BJs878zTe50v09HWHssNn7m8MXJgSgPLoTcX3nVhhABSqCl0HlSPugrp_thumb_large_3.jpeg"
+                },
+                "twitch": null,
+                "twitter": null,
+                "url": "https://www.patreon.com/user?u=1010858",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "1010858",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/1010858"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": "History student, mostly.",
+                "created": "2016-02-19T03:17:25+00:00",
+                "facebook": null,
+                "facebook_id": null,
+                "first_name": "Ernesto",
+                "full_name": "Ernesto Cruz",
+                "gender": 0,
+                "image_url": "//s3-us-west-1.amazonaws.com/patreon.user/Y6SOb5FIJmcUqm4uA6Rptibs8Kml0NfDruaZ2rt0ZHcxvGlaRDEdbMhskP5FDSOH_large_2.jpeg",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Cruz",
+                "status": 1,
+                "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.user/dI522RXdiFxGOQ0B0sUbzCRhRPfAfiWo3Hc2MH2wtpJv6PlfhRzLjukJfub2tYdl_thumb_large_3.jpeg",
+                "thumbnails": {
+                    "thumb": "https://s3-us-west-1.amazonaws.com/patreon.user/dI522RXdiFxGOQ0B0sUbzCRhRPfAfiWo3Hc2MH2wtpJv6PlfhRzLjukJfub2tYdl_thumb.jpeg",
+                    "thumb_2": "https://s3-us-west-1.amazonaws.com/patreon.user/dI522RXdiFxGOQ0B0sUbzCRhRPfAfiWo3Hc2MH2wtpJv6PlfhRzLjukJfub2tYdl_thumb_2.jpeg",
+                    "thumb_large": "https://s3-us-west-1.amazonaws.com/patreon.user/dI522RXdiFxGOQ0B0sUbzCRhRPfAfiWo3Hc2MH2wtpJv6PlfhRzLjukJfub2tYdl_thumb_large.jpeg",
+                    "thumb_large_2": "https://s3-us-west-1.amazonaws.com/patreon.user/dI522RXdiFxGOQ0B0sUbzCRhRPfAfiWo3Hc2MH2wtpJv6PlfhRzLjukJfub2tYdl_thumb_large_2.jpeg",
+                    "thumb_large_3": "https://s3-us-west-1.amazonaws.com/patreon.user/dI522RXdiFxGOQ0B0sUbzCRhRPfAfiWo3Hc2MH2wtpJv6PlfhRzLjukJfub2tYdl_thumb_large_3.jpeg"
+                },
+                "twitch": null,
+                "twitter": "perfnonfreedom",
+                "url": "https://www.patreon.com/user?u=2905149",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "2905149",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/2905149"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2014-05-31T09:35:29+00:00",
+                "facebook": null,
+                "facebook_id": null,
+                "first_name": "Mick",
+                "full_name": "Mick Green",
+                "gender": 0,
+                "image_url": "//s3.amazonaws.com/patreon/dafcee644c18ed625b3947a08a8d5bd9.jpg",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "Green",
+                "status": 1,
+                "thumb_url": "//s3.amazonaws.com/patreon/b4d00d304bc22f5288f8f00fa1ac942a.jpg",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": "",
+                "url": "https://www.patreon.com/dreadpiratemick",
+                "vanity": "dreadpiratemick",
+                "youtube": null
+            },
+            "id": "180160",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/180160"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2015-12-27T21:49:12+00:00",
+                "facebook": "https://www.facebook.com/profile.php?id=100004397586543",
+                "facebook_id": null,
+                "first_name": "Ilias",
+                "full_name": "Ilias S.",
+                "gender": 0,
+                "image_url": "//s3-us-west-1.amazonaws.com/patreon.user/mef4PhMRycKD2PC5VmKHYXGKkaO0x4X75v36iXEXu4juLHT7Gmy95UX1U4ctKY68_large_2.jpeg",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "S.",
+                "status": 1,
+                "thumb_url": "//s3-us-west-1.amazonaws.com/patreon.user/u3Sc53a5ZvKaoS5i7CtTdLEmL6JagPMB0kpkjRKpcUCeIvd0bCv1vUMVrJRds0CC_thumb_large_3.jpeg",
+                "thumbnails": {
+                    "thumb": "https://s3-us-west-1.amazonaws.com/patreon.user/u3Sc53a5ZvKaoS5i7CtTdLEmL6JagPMB0kpkjRKpcUCeIvd0bCv1vUMVrJRds0CC_thumb.jpeg",
+                    "thumb_2": "https://s3-us-west-1.amazonaws.com/patreon.user/u3Sc53a5ZvKaoS5i7CtTdLEmL6JagPMB0kpkjRKpcUCeIvd0bCv1vUMVrJRds0CC_thumb_2.jpeg",
+                    "thumb_large": "https://s3-us-west-1.amazonaws.com/patreon.user/u3Sc53a5ZvKaoS5i7CtTdLEmL6JagPMB0kpkjRKpcUCeIvd0bCv1vUMVrJRds0CC_thumb_large.jpeg",
+                    "thumb_large_2": "https://s3-us-west-1.amazonaws.com/patreon.user/u3Sc53a5ZvKaoS5i7CtTdLEmL6JagPMB0kpkjRKpcUCeIvd0bCv1vUMVrJRds0CC_thumb_large_2.jpeg",
+                    "thumb_large_3": "https://s3-us-west-1.amazonaws.com/patreon.user/u3Sc53a5ZvKaoS5i7CtTdLEmL6JagPMB0kpkjRKpcUCeIvd0bCv1vUMVrJRds0CC_thumb_large_3.jpeg"
+                },
+                "twitch": null,
+                "twitter": "",
+                "url": "https://www.patreon.com/user?u=2663239",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "2663239",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/2663239"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2014-01-08T16:50:36+00:00",
+                "facebook": null,
+                "facebook_id": "100000682318499",
+                "first_name": "Indigo",
+                "full_name": "Indigo",
+                "gender": 1,
+                "image_url": "//graph.facebook.com/100000682318499/picture?type=large",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "",
+                "status": 1,
+                "thumb_url": "//graph.facebook.com/100000682318499/picture?type=square",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": "",
+                "url": "https://www.patreon.com/user?u=68178",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "68178",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/68178"
+            },
+            "type": "user"
+        },
+        {
+            "attributes": {
+                "about": "",
+                "created": "2015-10-07T12:20:35+00:00",
+                "facebook": null,
+                "facebook_id": null,
+                "first_name": "Brian",
+                "full_name": "Brian f",
+                "gender": 0,
+                "image_url": "https://www.patreon.com/images/profile_default_large.png",
+                "is_deleted": false,
+                "is_nuked": false,
+                "is_suspended": false,
+                "last_name": "f",
+                "status": 0,
+                "thumb_url": "https://www.patreon.com/images/profile_default.png",
+                "thumbnails": {
+                    "thumb": null,
+                    "thumb_2": null,
+                    "thumb_large": null,
+                    "thumb_large_2": null,
+                    "thumb_large_3": null
+                },
+                "twitch": null,
+                "twitter": "",
+                "url": "https://www.patreon.com/user?u=2411608",
+                "vanity": null,
+                "youtube": null
+            },
+            "id": "2411608",
+            "relationships": {
+                "campaign": {
+                    "data": null
+                },
+                "self": "https://api.patreon.com/user/2411608"
+            },
+            "type": "user"
+        }
+    ]
+}
